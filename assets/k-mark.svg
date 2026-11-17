@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Kelwave">
+  <circle cx="320" cy="320" r="320" fill="#0B0C0F"/>
+  <g fill="#F4F3EE">
+    <rect x="158" y="145" width="64" height="220"/>
+    <polygon points="218,232 296,145 352,145 258,256 350,358 304,358 218,296"/>
+    <rect x="158" y="420" width="62" height="62"/>
+    <rect x="280" y="420" width="62" height="62"/>
+    <rect x="340" y="360" width="62" height="58"/>
+    <rect x="404" y="295" width="62" height="62"/>
+  </g>
+</svg>
